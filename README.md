@@ -1,4 +1,4 @@
 # my-recipes
-This is a Website containig the weirdest of recipes.
+This is a Website containig the most awesome recipes from Mboutidem.
 
-Feel free to scroll at your disgust
+Feel free to suf at your disgust
